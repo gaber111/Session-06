@@ -1,0 +1,9 @@
+
+    color: gold;
+     color:rgb(106, 8, 8);
+      color: #22ff00;
+        color: rgba(255, 0, 0, 0.5);
+          color: hsl(120, 100%, 50%);   
+          color: hsla(240, 100%, 50%, 0.5);
+          color: hwb(120, 100%, 50%);
+}
